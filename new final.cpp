@@ -54,8 +54,8 @@ dest:
         if (d == 1)
         {
             cout << "You have selected destination: Ooty\n";
-            departuredate = "28-06-2024";
-            returndate = "30-06-2024";
+            departuredate = "27-07-2024";
+            returndate = "30-07-2024";
             tourid = 1334;
             price = 2000.00;
             cout << "Duration is 3 days and 2 nights \n";
@@ -65,8 +65,8 @@ dest:
         else if (d == 2)
         {
             cout << "You have selected destination: Kodaikanal\n";
-            departuredate = "28-06-2024";
-            returndate = "31-06-2024";
+            departuredate = "25-07-2024";
+            returndate = "29-07-2024";
             tourid = 1345;
             price = 2500.00;
             cout << "Duration is 4 days and 4 nights \n";
@@ -76,8 +76,8 @@ dest:
         else if (d == 3)
         {
             cout << "You have selected destination: Kanyakumari\n";
-            departuredate = "27-06-2024";
-            returndate = "29-06-2024";
+            departuredate = "26-07-2024";
+            returndate = "29-07-2024";
             tourid = 1353;
             price = 1750.00;
             cout << "Duration is 3 days and 3 nights \n";
